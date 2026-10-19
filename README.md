@@ -1,4 +1,4 @@
-# MasjidConnect
+# SUmmah
 
 **CS310 Mobile Application Development — Group 35**
 
