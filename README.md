@@ -38,13 +38,16 @@ The technology choices are proposals and may be revised during implementation.
 | Omer Faruk | To be confirmed |
 | Mustafa EsadHasozhan | To be confirmed |
 
-**Step 1 coordinator:** Egeman Ayrac (group membership and student ID to be confirmed)
+**Assigned TA:** Egeman Ayrac
+
+**Step 1 student coordinator:** To be selected from the three group members.
 
 ## Step 1 responsibilities (proposed; pending group confirmation)
 
+The student coordinator must be selected from the three group members and will coordinate TA communication, task assignments, and the final review.
+
 | Person | Responsibility |
 | --- | --- |
-| Egeman Ayrac | Step 1 coordination, TA communication, final review |
 | Alamin Bawa Idris | Application overview, feature scope, proposal integration |
 | Omer Faruk | Data requirements and technical challenges |
 | Mustafa EsadHasozhan | GitHub repository, README, .gitignore, repository verification |
