@@ -40,7 +40,7 @@ The technology choices are proposals and may be revised during implementation.
 
 **Assigned TA:** Egeman Ayrac
 
-**Step 1 student coordinator:** To be selected from the three group members.
+**Step 1 student coordinator:** Undecided (to be selected from the three group members).
 
 ## Step 1 responsibilities (proposed; pending group confirmation)
 
