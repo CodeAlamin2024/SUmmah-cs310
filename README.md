@@ -36,7 +36,7 @@ The technology choices are proposals and may be revised during implementation.
 | --- | --- |
 | Alamin Bawa Idris | 32769 |
 | Omer Faruk | To be confirmed |
-| Mustafa EsadHasozhan | To be confirmed |
+| Mustafa EsadHasozhan | 33800 |
 
 **Assigned TA:** Egeman Ayrac
 
