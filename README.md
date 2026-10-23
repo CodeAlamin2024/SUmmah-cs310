@@ -42,11 +42,6 @@ The technology choices are proposals and may be revised during implementation.
 
 **Step 1 student coordinator:** Alamin Bawa Idris 
 
-## Step 1 responsibilities:
-## **Alamin Bawa Idris** (Project Overview, target users, feature specification, proposal coordination, and final document preparation)
-## **Omer Faruk** (Data requirements, proposed database architecture, technical feasibility, potential implementation challenges)
-## **Mustafa EsadHasozhan** (GitHub repository configuration, README documentation, .gitignore, collaborator access, and initial commit verification)
-
 | Person | Responsibility |
 | --- | --- |
 | Alamin Bawa Idris | Application overview, feature scope, proposal integration |
