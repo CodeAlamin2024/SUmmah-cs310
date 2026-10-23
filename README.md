@@ -35,7 +35,7 @@ The technology choices are proposals and may be revised during implementation.
 | Member | Student ID |
 | --- | --- |
 | Alamin Bawa Idris | 32769 |
-| Omer Faruk | To be confirmed |
+| Omer Faruk Eliuz | 32592 |
 | Mustafa EsadHasozhan | 33800 |
 
 **Assigned TA:** Egeman Ayrac
