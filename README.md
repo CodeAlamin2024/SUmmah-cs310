@@ -1,6 +1,6 @@
 # SUmmah
 
-**CS310 Mobile Application Development — Group 35**
+**CS310 Mobile Application Development - Group 35**
 
 MasjidConnect is a proposed Flutter mobile application for university students to view their campus masjid's prayer and iqamah times, track the next prayer with a live countdown, check Jumu'ah information, and read mosque announcements.
 
@@ -40,11 +40,12 @@ The technology choices are proposals and may be revised during implementation.
 
 **Assigned TA:** Egeman Ayrac
 
-**Step 1 student coordinator:** Undecided (to be selected from the three group members).
+**Step 1 student coordinator:** Alamin Bawa Idris 
 
-## Step 1 responsibilities (proposed; pending group confirmation)
-
-The student coordinator must be selected from the three group members and will coordinate TA communication, task assignments, and the final review.
+## Step 1 responsibilities:** 
+Alamin Bawa Idris (Project Overview, target users, feature specification, proposal coordination, and final document preparation)
+Omer Faruk (Data requirements, proposed database architecture, technical feasibility, potential implementation challenges)
+Mustafa EsadHasozhan (GitHub repository configuration, README documentation, .gitignore, collaborator access, and initial commit verification)
 
 | Person | Responsibility |
 | --- | --- |
@@ -58,7 +59,3 @@ Step 1: proposal and GitHub repository setup. Application implementation is not 
 
 - Initial draft to assigned TA: **22 October 2026, 23:59**
 - Final proposal submission: **25 October 2026, 23:59**
-
-## Repository setup
-
-This repository is public for CS310 project review. All group members should be added as GitHub collaborators and accept their invitations. Do not commit passwords, API secrets, or local configuration files.
