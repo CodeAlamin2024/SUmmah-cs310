@@ -2,7 +2,7 @@
 
 **CS310 Mobile Application Development - Group 35**
 
-MasjidConnect is a proposed Flutter mobile application for university students to view their campus masjid's prayer and iqamah times, track the next prayer with a live countdown, check Jumu'ah information, and read mosque announcements.
+SUmmah is a proposed Flutter mobile application for university students to view their campus masjid's prayer and iqamah times, track the next prayer with a live countdown, check Jumu'ah information, and read mosque announcements.
 
 The initial use case is the Sabancı University masjid. The project will begin with sample timetable data; official schedules will require verification with the masjid administration before real-world use.
 
@@ -45,7 +45,7 @@ The technology choices are proposals and may be revised during implementation.
 | Person | Responsibility |
 | --- | --- |
 | Alamin Bawa Idris | Application overview, feature scope, proposal integration |
-| Omer Faruk | Data requirements and technical challenges |
+| Omer Faruk Eliuz | Data requirements and technical challenges |
 | Mustafa EsadHasozhan | GitHub repository, README, .gitignore, repository verification |
 
 ## Project status
