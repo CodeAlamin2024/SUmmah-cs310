@@ -3,7 +3,7 @@
 CS310 Mobile Application Development · Group 35 · Step 2.1 planning
 
 ## Purpose
-Document the proposed mobile screens for SUmmah before preparing the Step 2.1 wireframe PDF. These are planning notes, not approved wireframes. The group must obtain TA feedback before implementing Step 2.2 UI.
+Document the proposed mobile screens for SUmmah before preparing the Step 2.1 wireframe PDF. These are planning notes, not approved wireframes.
 
 ## Proposed screens
 
@@ -41,4 +41,3 @@ Document the proposed mobile screens for SUmmah before preparing the Step 2.1 wi
 
 Assigned TA: **Egeman Ayrac**. Step 1 student coordinator: **Alamin Bawa Idris**.
 
-> This document is a proposed screen plan; the final screens and task split should reflect group agreement and TA feedback.
