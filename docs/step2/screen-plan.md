@@ -1,4 +1,4 @@
-# SUmmah — Step 2 Screen Plan
+# SUmmah: Step 2 Screen Plan
 
 CS310 Mobile Application Development · Group 35 · Step 2.1 planning
 
