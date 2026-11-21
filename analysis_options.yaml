@@ -1,0 +1,16 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude:
+    - build/**
+    - android/**
+    - ios/**
+    - web/**
+    - windows/**
+    - macos/**
+    - linux/**
+  errors:
+    # Flutter 3.47+ marks package:flutter/material.dart as deprecated in favour
+    # of package:material_ui. We keep material.dart so the project still builds
+    # on every teammate's Flutter version, so this notice is turned off.
+    deprecated_member_use: ignore
